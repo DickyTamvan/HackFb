@@ -81,7 +81,7 @@ def siapa():
 		
 def loginSC():
 	os.system('clear')
-	print"\033[1;97mSilahkan login Dahulu Jika Tidak Tahu Hubungi WA:083159336014\n"
+	print"\033[1;97mSilahkan login USERNAME DAN PASSWORD Dahulu Jika Tidak Tahu Bisa Beli Ke saya Hubungi WA:083159336014\n"
 	username = raw_input("\033[1;96m[*] \033[1;97mUsername \033[1;91m: \033[1;92m")
 	password = raw_input("\033[1;96m[*] \033[1;97mPassword \033[1;91m: \033[1;92m")
 	if username =="HACK" and password =="FBDICKY2020":
